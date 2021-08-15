@@ -63,6 +63,12 @@
   font-size: 50px;
 }
 
+@media (max-width: 500px) {
+  #services {
+    min-height: 600px;
+  }
+}
+
 #copyright {
   background: #000;
 }
